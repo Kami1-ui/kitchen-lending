@@ -1,1 +1,1 @@
-GitHub Pages https://kamilprogram.github.io/kitchen.github.io/
+GitHub Pages https://kamilprogram.github.io/kitchen/
